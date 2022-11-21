@@ -1,0 +1,16 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "TDD with MOCHA AND CHAI It is Test Driven Development We write assertions An assertion is when we connect to a point of the program that should always evaluate to true. Another way of thinking what assertions are, is a line that tests if a part of your code works as intended.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2"
+  }
+}
